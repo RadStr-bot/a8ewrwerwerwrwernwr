@@ -1,0 +1,19 @@
+{
+  "iri": "a8da1280-161e-4486-b785-6b563c900215",
+  "projectIri": "4436bd71-b128-4fab-a0de-0bed7df619c1",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "StatDCAT-AP 3.0.0 draft"
+    },
+    "description": {
+      "cs": ""
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

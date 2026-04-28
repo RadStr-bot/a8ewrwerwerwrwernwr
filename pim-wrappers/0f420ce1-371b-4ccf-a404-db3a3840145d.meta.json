@@ -1,0 +1,16 @@
+{
+  "iri": "2l1ws",
+  "projectIri": "0f420ce1-371b-4ccf-a404-db3a3840145d",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "qb"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

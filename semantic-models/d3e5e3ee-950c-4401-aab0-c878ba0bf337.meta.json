@@ -1,0 +1,19 @@
+{
+  "iri": "275a4cf1-7f70-4f10-a95c-8340e1b19ea1",
+  "projectIri": "d3e5e3ee-950c-4401-aab0-c878ba0bf337",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "StatDCAT-AP 3.0.0 draft"
+    },
+    "description": {
+      "en": "Semantic model for the vocabulary"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
